@@ -13,6 +13,8 @@
 		D68BDE6C1BAAFD5E0078FB2D /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D68BDE6B1BAAFD5E0078FB2D /* Images.xcassets */; };
 		D68BDE6F1BAAFD5E0078FB2D /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = D68BDE6D1BAAFD5E0078FB2D /* LaunchScreen.xib */; };
 		D68BDE7B1BAAFD5E0078FB2D /* SelfSizingCellExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68BDE7A1BAAFD5E0078FB2D /* SelfSizingCellExampleTests.swift */; };
+		D68BDE851BAC5C6B0078FB2D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68BDE841BAC5C6B0078FB2D /* TableViewController.swift */; };
+		D68BDE871BAC5C920078FB2D /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D68BDE861BAC5C920078FB2D /* TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		D68BDE741BAAFD5E0078FB2D /* SelfSizingCellExampleTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SelfSizingCellExampleTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		D68BDE791BAAFD5E0078FB2D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D68BDE7A1BAAFD5E0078FB2D /* SelfSizingCellExampleTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelfSizingCellExampleTests.swift; sourceTree = "<group>"; };
+		D68BDE841BAC5C6B0078FB2D /* TableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		D68BDE861BAC5C920078FB2D /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = TableViewCell.swift; path = ../TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +81,8 @@
 		D68BDE611BAAFD5E0078FB2D /* SelfSizingCellExample */ = {
 			isa = PBXGroup;
 			children = (
+				D68BDE841BAC5C6B0078FB2D /* TableViewController.swift */,
+				D68BDE861BAC5C920078FB2D /* TableViewCell.swift */,
 				D68BDE641BAAFD5E0078FB2D /* AppDelegate.swift */,
 				D68BDE661BAAFD5E0078FB2D /* ViewController.swift */,
 				D68BDE681BAAFD5E0078FB2D /* Main.storyboard */,
@@ -213,6 +219,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				D68BDE671BAAFD5E0078FB2D /* ViewController.swift in Sources */,
+				D68BDE871BAC5C920078FB2D /* TableViewCell.swift in Sources */,
+				D68BDE851BAC5C6B0078FB2D /* TableViewController.swift in Sources */,
 				D68BDE651BAAFD5E0078FB2D /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

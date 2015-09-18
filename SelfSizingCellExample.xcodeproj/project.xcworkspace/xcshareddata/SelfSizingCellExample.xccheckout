@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4AFF8215-545C-411C-9BF4-AEBF92D4ECBA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AF513ED71C743CE77230EFC1AF7A40E663E13599</key>
+		<string>bitbucket.org:Yuta-Nakamura/selfsizingcellexample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SelfSizingCellExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AF513ED71C743CE77230EFC1AF7A40E663E13599</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:Yuta-Nakamura/selfsizingcellexample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AF513ED71C743CE77230EFC1AF7A40E663E13599</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AF513ED71C743CE77230EFC1AF7A40E663E13599</string>
+			<key>IDESourceControlWCCName</key>
+			<string>SelfSizingCellExample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
